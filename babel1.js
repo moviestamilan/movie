@@ -31,7 +31,7 @@ const First = (props) =>{
 const App = () => {
   return(
      <span>
-          <First src='img/thegreyman.jpg'
+          <First src='img/thegrayman.jpg'
           title='The Gray Man (2022) HD 720p Tamil Dubbed Movie Watch Online'  
           href='http://vidmx.xyz/zembed-resbvsnuti6l.html'
  
@@ -81,7 +81,7 @@ const App = () => {
           href='http://vidmx.xyz/embed-kf186sgcb7cy.html'
  
            />
-                <First src='img/adedesundara.jpg'
+                <First src='img/adadesundara.jpg'
           title='Adade Sundara (2022) HD 720p Tamil Movie Watch Online'  
           href='http://vidmx.xyz/embed-kw86in2fgirg.html'
  
