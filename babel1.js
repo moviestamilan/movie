@@ -27,7 +27,20 @@ const First = (props) =>{
   
 }
 
+function ads(){
+return(
 
+	atOptions = {
+		'key' : 'ced8dce4ee0b0342f0588883de43dc28',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://arabdevastatingpatty.com/ced8dce4ee0b0342f0588883de43dc28/invoke.js"></scr' + 'ipt>');
+
+)
+}
 
 
 const App = () => {
@@ -55,7 +68,7 @@ const App = () => {
  
            />
 
-
+<span>{ads()}</span>
      <First src='img/mydearbootham.jpg'
           title='My Dear Bootham (2022) HQ DVDScr Tamil Full Movie Watch Online'  
           href='http://vidmx.xyz/embed-sti2z585l1l2.html'
