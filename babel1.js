@@ -36,8 +36,8 @@ return(
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://arabdevastatingpatty.com/ced8dce4ee0b0342f0588883de43dc28/invoke.js"></scr' + 'ipt>');
+	}
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://arabdevastatingpatty.com/ced8dce4ee0b0342f0588883de43dc28/invoke.js"></scr' + 'ipt>')
 
 )
 }
