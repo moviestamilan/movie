@@ -38,11 +38,6 @@ const First = (props) =>{
 
 
 
-const adsc = (items) =>{
-	<div>{ads}</div>
-	
-}
-
 const App = () => {
   return(
      <span>
@@ -56,8 +51,8 @@ const App = () => {
           title='F3: Fun and Frustration (2022) HD 720p Tamil Movie Watch Online'  
           href='http://vidmx.xyz/xembed-91vmp3zajwyb.html'
  
-           />
-<adsc />
+           />,
+<span>{ads}</span>
      <First src='img/iravinnizhal.jpg'
           title='Iravin Nizhal (2022) HQ DVDScr Tamil Full Movie Watch Online'  
           href='http://vidmx.xyz/embed-8a0d3wqis0oz.html'
