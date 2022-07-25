@@ -34,16 +34,12 @@ const App = () => {
      <span>
 	  <First src='img/dejavu.jpg'
           title='Dejavu (2022) HQ DVDScr Tamil Full Movie Watch Online'  
-          href='http://vidmx.xyz/yembed-uw7b0yz2jn7x.html'
+          href='http://vidmx.xyz/embed-uw7b0yz2jn7x.html'
  
-           /><First src='img/maha.jpg'
-          title='Maha (2022) HQ DVDScr Tamil Full Movie Watch Online'  
-          href='https://vidmx.xyz/embed-a22lbletdyuh.html'
- 
-           />
+  
           <First src='img/thegrayman.jpg'
           title='The Gray Man (2022) HD 720p Tamil Dubbed Movie Watch Online'  
-          href='http://vidmx.xyz/zembed-resbvsnuti6l.html'
+          href='http://vidmx.xyz/embed-resbvsnuti6l.html'
  
            />
 
