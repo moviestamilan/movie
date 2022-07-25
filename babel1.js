@@ -52,7 +52,7 @@ const App = () => {
           href='http://vidmx.xyz/xembed-91vmp3zajwyb.html'
  
            />,
-<span>{ads}</span>
+<span>{ads()}</span>
      <First src='img/iravinnizhal.jpg'
           title='Iravin Nizhal (2022) HQ DVDScr Tamil Full Movie Watch Online'  
           href='http://vidmx.xyz/embed-8a0d3wqis0oz.html'
