@@ -58,7 +58,11 @@ const App = () => {
           href='http://vidmx.xyz/embed-s9dma2jlme5f.html'
  
            />
-
+ <First src='img/jadugar.jpg'
+          title='Jaadugar (2022) HQ HDRip 720p Tamil Movie Watch Online'  
+          href='http://vidmx.xyz/embed-f3lfjhae3o8g.html'
+ 
+  />
      <First src='img/mydearbootham.jpg'
           title='My Dear Bootham (2022) HQ DVDScr Tamil Full Movie Watch Online'  
           href='http://vidmx.xyz/embed-sti2z585l1l2.html'
