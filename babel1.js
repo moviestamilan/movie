@@ -26,15 +26,7 @@ const First = (props) =>{
   )
   
 }
-		function ads(){
-	atOptions = {
-		'key' : '41217c3eb57c39ac1a0872bc7e02d2e0',
-		'format' : 'iframe',
-		'height' : 300,
-		'width' : 160,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://arabdevastatingpatty.com/41217c3eb57c39ac1a0872bc7e02d2e0/invoke.js"></scr' + 'ipt>');}
+
 
 
 
