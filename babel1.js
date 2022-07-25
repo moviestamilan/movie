@@ -99,8 +99,17 @@ const App = () => {
           href='http://vidmx.xyz/embed-j99q9pxne8d7.html'
  
            />
+	    <First src='img/paka.jpeg'
+          title='Paka (2022) HD 720p Tamil Movie Watch Online'  
+          href='http://vidmx.xyz/embed-f0t74paf5vkj.html'
+
+           />
            
-           
+           <First src='img/pattampoochi.jpeg'
+          title='Pattampoochi (2022) HD 720p Tamil Movie Watch Online'  
+          href='http://vidmx.xyz/embed-njtfdg6msp1r.html'
+
+           />
      <First src='img/vikram.jpeg'
           title=' vikram (2022) tamil movies  HD 720 watch online'  
           href='http://vidmx.xyz/embed-62g253t7zk39.html'
