@@ -32,6 +32,13 @@ const First = (props) =>{
 const App = () => {
   return(
      <span>
+  <First src='img/nadhi.jpg'
+          title='Nadhi (2022) HQ DVDScr Tamil Full Movie Watch Online'  
+          href='http://vidmx.xyz/embed-klpg8bdi568d.html'
+ 
+  />
+
+
 	  <First src='img/dejavu.jpg'
           title='Dejavu (2022) HQ DVDScr Tamil Full Movie Watch Online'  
           href='http://vidmx.xyz/embed-uw7b0yz2jn7x.html'
