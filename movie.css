@@ -188,7 +188,13 @@ a.container-7a6020b355c299a5d7412aeed169fcbf__link{
 background-color:transparent;
 
 }
-
-a#lkap{
+a.container-afc9909d2934fb1d5572baa2011b659a__link{
 background-color:transparent;
+	display:none;
+}
+
+@media screen and (max-width: 400px){
+	a.container-afc9909d2934fb1d5572baa2011b659a__link{
+	display:block;}
+
 }
