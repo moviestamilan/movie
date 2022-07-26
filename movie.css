@@ -190,11 +190,8 @@ background-color:transparent;
 }
 a.container-afc9909d2934fb1d5572baa2011b659a__link{
 background-color:transparent;
-	display:none;
+	
 }
-
-@media screen and (max-width: 400px){
-	a.container-afc9909d2934fb1d5572baa2011b659a__link{
-	display:block;}
-
+#container-52a10400d6d9aeb23722874017c45cc1{
+	background-color:transparent;
 }
