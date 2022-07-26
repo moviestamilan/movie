@@ -32,6 +32,16 @@ const First = (props) =>{
 const App = () => {
   return(
      <span>
+<First src='img/rocketry.jpg'
+          title='Rocketry: The Nambi Effect (2022) HQ DVDScr Tamil Full Movie Watch Online'  
+       href='http://vidmx.xyz/embed-ydw74q55aynr.html'
+ 
+  />
+<First src='img/vaashi.jpg'
+          title='Vaashi (2022) HD 720p Tamil Movie Watch Online'  
+       href='http://vidmx.xyz/embed-zvnu8xu3bm89.html'
+ 
+  />
 <First src='img/shamshera.jpg'
           title='Shamshera (2022) HQ DVDScr Tamil Full Movie Watch Online'  
        href='http://vidmx.xyz/embed-66e7jcy3spp4.html'
