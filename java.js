@@ -34,3 +34,23 @@ function open1() {
     z.style.display ='block';
   }
 }
+
+function op(){
+var x= document.getElementById('mcontent');
+var y= document.getElementById('player');
+var z=document.getElementById('mark1');
+var a=document.getElementById('menu1');
+if (x.style.display=='block'){
+  x.style.display='none';
+  y.style.opacity='100%';
+  z.style.display='none';
+    a.style.display='block';
+}
+else{
+  x.style.display='block';
+  y.style.opacity='10%';
+  z.style.display='block';
+  a.style.display='none';
+}
+
+}
