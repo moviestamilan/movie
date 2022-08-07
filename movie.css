@@ -218,7 +218,9 @@ border-bottom:1px solid #878787;
 	background-color: transparent;
 
 }
+a{
 
+text-decoration:none;}
 #mark1{
 	
 	display: none;
